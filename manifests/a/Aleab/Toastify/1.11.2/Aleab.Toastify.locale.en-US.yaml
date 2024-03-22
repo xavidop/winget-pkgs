@@ -1,10 +1,12 @@
-# Created with WinGet Automation using Komac v1.8.0
+# Created using WinGet Automation (CLI)
+
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.4.0.schema.json
 
 PackageIdentifier: Aleab.Toastify
 PackageVersion: 1.11.2
 PackageLocale: en-US
 Publisher: Jesper Palm, Oren Nachman, Alessandro Attard Barbini
+PublisherUrl: https://aleab.github.io/toastify
 PublisherSupportUrl: https://github.com/aleab/toastify/issues
 PackageName: Toastify
 PackageUrl: https://github.com/aleab/toastify
@@ -19,4 +21,12 @@ ReleaseNotes: |-
   - Fixed some more things and broke others, probably...
 ReleaseNotesUrl: https://github.com/aleab/toastify/releases/tag/v1.11.2
 ManifestType: defaultLocale
-ManifestVersion: 1.4.0
+ManifestVersion: 1.5.0
+Tags:
+- c-sharp
+- global-hotkeys
+- hotkeys
+- music
+- spotify
+- spotify-windows
+- toast-notifications
